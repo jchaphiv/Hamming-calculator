@@ -15,3 +15,5 @@ compute = function(x,y){
 module.exports = {
 	compute: compute,
 };
+
+Code example from: github.com/molovo/exercism/blob/master/javascript/hammming/
